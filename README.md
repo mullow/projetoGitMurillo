@@ -22,21 +22,21 @@ Ensino Médio em andamento
 
 ## FORMAÇÃO COMPLEMENTAR
 
-Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023 
-Carga horária: 40 horas\
+Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023\ 
+Carga horária: 40 horas
 
-Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM
+Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM\
 Carga horária: 80 horas
 
-Participei como ouvinte no Curso de Redação e Interpretação de Texto 
-Carga horária: 20 horas\
+Participei como ouvinte no Curso de Redação e Interpretação de Texto\ 
+Carga horária: 20 horas
 
-Participei como ouvinte no Projeto de Ensino Curso de Libras 
-Carga horária: 60 horas\ 
+Participei como ouvinte no Projeto de Ensino Curso de Libras\ 
+Carga horária: 60 horas
 
 Participei como voluntário no Projeto de Experimentação investigativa como ferramenta de apoio
-ao ensino de ciências naturais em escolas de ensino fundamental do município de Eirunepé, aprovado pelo Programa Institucional de Bolsas de Extensão - PIBEX, do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM/CEIRU
-Carga horária: 20 horas\
+ao ensino de ciências naturais em escolas de ensino fundamental do município de Eirunepé, aprovado pelo Programa Institucional de Bolsas de Extensão - PIBEX, do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM/CEIRU\
+Carga horária: 20 horas
 
 
 
