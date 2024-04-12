@@ -6,10 +6,9 @@ Este projeto faz parte da disciplina tal Projeto Integrador II, do Instituto Fed
 
 # CÚRRICULO BÁSICO
 
-[Currículo Lattes]("http://lattes.cnpq.br/4472739782535691")
+[Currículo Lattes] ("http://lattes.cnpq.br/4472739782535691")
 
-[Perfil no Linkedin]("https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb")
-
+[Perfil no Linkedin] ("https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb")
 ## DADOS PESSOAIS
 
 Nome: Murilo Gabriel da Silva Araújo 
@@ -23,23 +22,21 @@ Ensino Médio em andamento
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Descrição da atividade conforme certificado
+Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023 
+Carga horária: 40 horas\
 
-Semana Nacional de Ciência e Tecnologia - SNCT 2023 
-Carga horária: 40 horas
-
-Monitoria de Biologia 
+Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM
 Carga horária: 80 horas
 
-Curso de Redação e Interpretação de Texto 
-Carga horária: 20 horas 
+Participei como ouvinte no Curso de Redação e Interpretação de Texto 
+Carga horária: 20 horas\
 
-Projeto de Ensino Curso de Libras 
-Carga horária: 60 horas 
+Participei como ouvinte no Projeto de Ensino Curso de Libras 
+Carga horária: 60 horas\ 
 
-Projeto Experimentação investigativa como ferramenta de apoio
-ao ensino de ciências naturais em escolas de ensino fundamental do município de Eirunepé
-Carga horária: 20 horas 
+Participei como voluntário no Projeto de Experimentação investigativa como ferramenta de apoio
+ao ensino de ciências naturais em escolas de ensino fundamental do município de Eirunepé, aprovado pelo Programa Institucional de Bolsas de Extensão - PIBEX, do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM/CEIRU
+Carga horária: 20 horas\
 
 
 
