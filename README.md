@@ -22,8 +22,7 @@ Ensino Médio em andamento
 
 ## FORMAÇÃO COMPLEMENTAR
 
-Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023\ 
-Carga horária: 40 horas
+Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023\Carga horária: 40 horas
 
 Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM\
 Carga horária: 80 horas
