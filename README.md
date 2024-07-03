@@ -6,9 +6,9 @@ Este projeto faz parte da disciplina tal Projeto Integrador II, do Instituto Fed
 
 # CÚRRICULO BÁSICO
 
-[Currículo Lattes] ("http://lattes.cnpq.br/4472739782535691")
+[Currículo Lattes](http://lattes.cnpq.br/4472739782535691)
 
-[Perfil no Linkedin] ("https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb")
+[Perfil no Linkedin](https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb)
 ## DADOS PESSOAIS
 
 Nome: Murilo Gabriel da Silva Araújo 
@@ -18,7 +18,8 @@ e-mail: murilogsa2022@gmail.com
 ## FORMAÇÃO ACADÊMICA
 
 Ensino Fundamental Completo 
-Ensino Médio em andamento 
+
+Curso Técnico de Nivel Médio Integrado em Informática em andamento 
 
 ## FORMAÇÃO COMPLEMENTAR
 
