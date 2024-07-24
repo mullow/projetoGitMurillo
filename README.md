@@ -48,7 +48,7 @@ Curso Técnico de Nivel Médio Integrado em Informática em andamento
 6. Particei como atleta de Projetos Relacionados à Disciplina de Educação Física por 2 (dois) anos consecutivos - Jogos dos Intitutos Federais do Amazonas -\
    representando o IFAM - Campus Eirunepé na modalidade de atletismos masculino, na competição regional (Amazonas)\
    Carga horária: 240 horas\
-   [Certificação oficial referente a atividade](certificado_6.pdf)
+   [Certificação oficial referente ao projeto](certificado_6.pdf)
 
 7. Participei como ouvinte do Evento Alusivo ao Dia Nacional dos Povos Indígenas, organizado pelo NEABI com apoio do CETI E CASAI, realizado no\
    Instituto Federal do Amazonas - Campus Eirunepé\
