@@ -11,8 +11,8 @@ Este projeto faz parte da disciplina tal Projeto Integrador II, do Instituto Fed
 [Perfil no Linkedin](https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb)
 ## DADOS PESSOAIS
 
-Nome: Murilo Gabriel da Silva Araújo 
-Idade: 17 anos 
+Nome: Murilo Gabriel da Silva Araújo\
+Idade: 17 anos\
 e-mail: murilogsa2022@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
