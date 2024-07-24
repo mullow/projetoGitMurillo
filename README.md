@@ -49,7 +49,7 @@ Curso Técnico de Nivel Médio Integrado em Informática em andamento
    Carga horária: 4 horas
 
 8. Participei da palestra sobre Prevenção da Gravidez na Adolescência, ministrado pelo setor de saúde da UBS GEZITO\
-   com apoio do setor de saúde do IFAM Campus Eirunepé
+   com apoio do setor de saúde do IFAM Campus Eirunepé\
    Carga horária: 2 horas
 
 
