@@ -24,33 +24,38 @@ Curso Técnico de Nivel Médio Integrado em Informática em andamento
 ## FORMAÇÃO COMPLEMENTAR
 
 1. Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023\
-   Carga horária: 40 horas
+   Carga horária: 40 horas\
+   [Certificado referente a atividade](certificado_1.pdf)
    
 2. Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM\
-   Carga horária: 80 horas
-
+   Carga horária: 80 horas\
+   [Certificado referente a atividade](certificado_2.pdf)
+   
 3. Participei como ouvinte no Curso de Redação e Interpretação de Texto\
-   Carga horária: 20 horas
+   Carga horária: 20 horas\
+   [Certificado referente a atividade](certificado_3.pdf)
 
 4. Participei como ouvinte no Projeto de Ensino Curso de Libras\
-   Carga horária: 60 horas
+   Carga horária: 60 horas\
+   [Certificado referente a atividade](certificado_4.pdf)
 
 5. Participei como voluntário no Projeto de Experimentação investigativa como ferramenta de apoio ao ensino de ciências naturais\
    em escolas de ensino fundamental do município de Eirunepé, aprovado pelo Programa Institucional de Bolsas de Extensão - PIBEX,\
    do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM/CEIRU\
    Carga horária: 20 horas
+   [Certificado referente a atividade](certificado_5.pdf)
    
 6. Particei de Projetos Relacionados à Disciplina Educação Física por 2 (dois) anos consecutivos - Jogos dos Intitutos Federais do Amazonas -\
    representando o IFAM - Campus Eirunepé na modalidade de atletismos masculino, na competição regional (Amazonas)\
-   Carga horária: 240 horas
+   Carga horária: 240 horas\
+   [Certificado referente a atividade](certificado_6.pdf)
 
 7. Participou do Evento Alusivo ao Dia Nacional dos Povos Indígenas, organizado pelo NEABI com apoio do CETI E CASAI, realizado no\
    Instituto Federal do Amazonas - Campus Eirunepé\
-   Carga horária: 4 horas
+   Carga horária: 4 horas\
+   [Certificado referente a atividade](certificado_7.pdf)
 
 8. Participei da palestra sobre Prevenção da Gravidez na Adolescência, ministrado pelo setor de saúde da UBS GEZITO\
    com apoio do setor de saúde do IFAM Campus Eirunepé\
-   Carga horária: 2 horas
-
-
-
+   Carga horária: 2 horas\
+   [Certificado referente a atividade](certificado_8.pdf)
