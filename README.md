@@ -24,7 +24,8 @@ Curso Técnico de Nivel Médio Integrado em Informática em andamento
 ## FORMAÇÃO COMPLEMENTAR
 
 1. Participei de Semana Nacional de Ciência e Tecnologia - SNCT 2023\
-   Carga horária: 40 horas
+   Carga horária: 40 horas\
+   [Certificado_1 ](https://www.linkedin.com/in/murilo-gabriel-da-silva-ara%C3%BAjo-a7a8222bb)
 
 3. Participei com bolsista como monitor na Monitoria de Biologia do IFAM campus Eirunepé - AM\
    Carga horária: 80 horas
